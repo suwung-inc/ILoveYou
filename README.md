@@ -35,8 +35,8 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     
-    <br />
-    <a href="https://suwung-inc.github.io/IloveYou/">View Demo</a>
+    
+    . <a href="https://suwung-inc.github.io/IloveYou/">View Demo</a>
    
   </p>
 </p>

@@ -30,17 +30,21 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">I LOVE YOU</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    
-    
-    . <a href="https://suwung-inc.github.io/IloveYou/">View Demo</a>
-   
+    SUWUNG
+    <br />
+    <a href="https://suwung-inc.github.io/IloveYou/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://suwung-inc.github.io/IloveYou/">View Demo</a>
+    ·
+    <a href="https://suwung-inc.github.io/IloveYou/issues">Report Bug</a>
+    ·
+    <a href="https://suwung-inc.github.io/IloveYou/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 
@@ -64,7 +68,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://suwung-inc.github.io/IloveYou/](https://suwung-inc.github.io/IloveYou/)
 
 
 
